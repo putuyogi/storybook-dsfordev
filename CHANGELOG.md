@@ -1,3 +1,18 @@
+# v0.1.1 (Sun Jan 15 2023)
+
+#### ⚠️ Pushed to `main`
+
+- Update release.yml 2 (putu.yogi@docscorp.com)
+- Update release.yml (putu.yogi@docscorp.com)
+- Add release script (putu.yogi@docscorp.com)
+- Update package json (putu.yogi@docscorp.com)
+
+#### Authors: 1
+
+- Putu Yogi (putu.yogi@docscorp.com)
+
+---
+
 
 # v0.1.0 (Tue Mar 09 2021)
 
